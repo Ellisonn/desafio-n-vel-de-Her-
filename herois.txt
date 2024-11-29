@@ -1,0 +1,32 @@
+Nome: gilball 1
+XP: 950
+Classificação: Ferro
+========================================
+Nome: treck 2
+XP: 1500
+Classificação: Bronze
+========================================
+Nome: digterd 3
+XP: 3200
+Classificação: Prata
+========================================
+Nome: madrog 4
+XP: 6000
+Classificação: Ouro
+========================================
+Nome: ludigaar 5
+XP: 7200
+Classificação: Platina
+========================================
+Nome: diirk 6
+XP: 8500
+Classificação: Ascendente
+========================================
+Nome: nordfek 7
+XP: 9500
+Classificação: Imortal
+========================================
+Nome: teckdir 8
+XP: 10500
+Classificação: Radiante
+========================================
